@@ -3,7 +3,7 @@
 A React app using Boostrap running on Node.js. This app pulls movie posters from The Movie DB database via an API call and displays them to the user.
 
 ## Staged URL
-[Staging](foolish-company.surge.sh)
+[Staging](http://foolish-company.surge.sh)
 
 ## Author
 
